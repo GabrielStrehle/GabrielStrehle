@@ -13,7 +13,7 @@
 
 ### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=GabrielStrehle&show_icons=true&theme=radical) 
-### Most Used Languages [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStrehle&layout=compact&theme=radical&hide=javascript,html,css)
+### Most Used Languages ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStrehle&layout=compact&theme=radical&hide=javascript,html,css)
 
 
 
