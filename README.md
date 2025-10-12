@@ -12,8 +12,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532991406837)
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=GabrielStrehle&show_icons=true&theme=radical) ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStrehle&layout=compact&theme=radical&hide=javascript,html,css)
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielStrehle&show_icons=true&theme=radical) 
+### Most Used Languages [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStrehle&layout=compact&theme=radical&hide=javascript,html,css)
 
 
 
