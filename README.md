@@ -12,10 +12,10 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532991406837)
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=GabrielStrehle&show_icons=true&theme=radical)
-
-### Most Used Languages
+![Stats](https://github-readme-stats.vercel.app/api?username=GabrielStrehle&show_icons=true&theme=radical) ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStrehle&layout=compact&theme=radical&hide=javascript,html,css)
+
+
 
 
 
@@ -23,6 +23,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET%20Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 
