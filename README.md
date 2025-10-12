@@ -15,11 +15,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET%20Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
-![Entity%20Framework%20Core](https://img.shields.io/badge/Entity%20Framework%20Core-6DB33F?logo=dotnet&logoColor=white)
 ![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
