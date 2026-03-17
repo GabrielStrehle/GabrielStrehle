@@ -1,6 +1,6 @@
 <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/gabriel-strehle-6b1927231">Gabriel Strehle 😄🖐️ </a>
+    <a href="https://www.linkedin.com/in/gabriel-strehle-6b1927231">Gabriel Strehle </a>
   </h1>
 
 ## 🌐 Socials:
@@ -16,6 +16,7 @@
 <div align="center">
 
   <a href="https://github.com/GabrielStrehle">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielStrehle&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStrehle&layout=compact&langs_count=10&theme=radical"/>
   </a>
 
